@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import math
 import json
 # 플라스크로 프로젝트를 할 폴더에 가상환경을 만들고, 플라스크를 설치(pip install flask)
-# 밑에서 부턴 AI가 작성한 주석 + 내 주석
+# 밑에서부턴 AI가 작성한 주석 + 내 주석
 # 가상환경을 활성화한 후 아래 코드를 실행합니다.
 # 가상환경을 활성화하는 방법은 운영체제에 따라 다릅니다.
 # Windows: venv\Scripts\activate
